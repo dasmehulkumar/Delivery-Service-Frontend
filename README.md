@@ -62,6 +62,8 @@ The project mainly focuses on modern UI design using <b>Bootstrap</b> components
 │── instagram.svg
 │── moving-van.jpg
 │── twitter-x.svg
+│── README.md
+
 </pre>
 
 <hr>
